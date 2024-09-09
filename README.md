@@ -31,7 +31,7 @@ Clonar el Repositorio
 Una vez que tengas las herramientas instaladas, clona el repositorio:
 
 ```bash
-git https://github.com/jhongonzalezs/mini-proyecto-api.git
+git clone https://github.com/jhongonzalezs/mini-proyecto-api.git
 cd mini-proyecto-api
 ```
 
